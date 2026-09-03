@@ -1,0 +1,31 @@
+Phoenix
+
+Thrust and mass flow rates
+------------------------------------------
+   Chamber thrust (vac):    1.15601     kN
+ Specific impulse (vac):  220.15115      s
+   Chamber thrust (opt):    1.01220     kN
+ Specific impulse (opt):  192.76279      s
+   Total mass flow rate:    0.53545   kg/s
+Oxidizer mass flow rate:    0.40159   kg/s
+    Fuel mass flow rate:    0.13386   kg/s
+
+Geometry of thrust chamber with parabolic nozzle
+------------------------------------------
+    Dc =   62.62  mm       b =   30.00 deg
+    R2 =   59.56  mm      R1 =   19.17  mm
+    L* = 1000.00  mm
+    Lc =  187.45  mm    Lcyl =  134.27  mm
+    Dt =   25.56  mm
+    Rn =    4.88  mm      Tn =   15.01 deg
+    Le =   45.48  mm      Te =    8.00 deg
+    De =   44.28  mm
+ Ae/At =    3.00    
+ Le/Dt =    1.78    
+Le/c15  =  127.89 % (relative to length of cone nozzle with Te=15 deg)
+
+  Mass =   -7.90  kg
+
+  Divergence efficiency:    0.99157       
+        Drag efficiency:    0.96223       
+     Thrust coefficient:    1.51050  (vac)
